@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-image: url('/image/pexels-felixmittermeier-956999.jpg'); /* Add your background image here */
+    background-image: url('/pexels-felixmittermeier-956999.jpg'); /* Add your background image here */
     background-size: cover;
     background-position: center;
     display: flex;
